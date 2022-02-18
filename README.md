@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 👋I am an undergraduate at School of Computer Science, NPU.
 - 👀I am interested in CPU, OS and Network.
 - 🌱I am a member of NPU's soccer robot group.
-- 💞️I am looking for like-minded partners who'd like to do research in computer systems. 
+- ✨I am looking for like-minded friends who'd like to do research in computer systems. 
 - 📫How to reach me -- weitianhao@mail.nwpu.edu.cn .
 
